@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:/python_scrapy/TencentSpider/.idea/TencentSpider.iml" filepath="D:/python_scrapy/TencentSpider/.idea/TencentSpider.iml" />
+      <module fileurl="file://D:/python_scrapy/douban/.idea/douban.iml" filepath="D:/python_scrapy/douban/.idea/douban.iml" />
+      <module fileurl="file://F:/自学资料/java数据结构与设计模式等/8第八章  爬虫/资料/代码/ITjuzi代码/ITjuzi/.idea/itjuzi_dis.iml" filepath="F:/自学资料/java数据结构与设计模式等/8第八章  爬虫/资料/代码/ITjuzi代码/ITjuzi/.idea/itjuzi_dis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../kanzhun_distribute/.idea/kanzhun_distribute.iml" filepath="$PROJECT_DIR$/../kanzhun_distribute/.idea/kanzhun_distribute.iml" />
+      <module fileurl="file://D:/python_scrapy/newdongguan/.idea/newdongguan.iml" filepath="D:/python_scrapy/newdongguan/.idea/newdongguan.iml" />
+      <module fileurl="file://D:/python_scrapy/wz.sun0769.com/.idea/wz.sun0769.com.iml" filepath="D:/python_scrapy/wz.sun0769.com/.idea/wz.sun0769.com.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../youyuan/.idea/youyuan.iml" filepath="$PROJECT_DIR$/../youyuan/.idea/youyuan.iml" />
+    </modules>
+  </component>
+</project>
